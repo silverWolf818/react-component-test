@@ -5,4 +5,4 @@ import {action} from '@storybook/addon-actions';
 import StateFullReactButton from '../StateFullReactButton';
 
 
-storiesOf('Button', module).add('StateFulReactButton', () => <StateFullReactButton handleOnclick={action('clicked')} />);
+storiesOf('StateFullReactButton', module).add('stateful react Button', () => <StateFullReactButton handleOnclick={action('clicked')} />);

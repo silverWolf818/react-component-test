@@ -5,7 +5,7 @@ class StateFullReactButton extends Component {
         const { handleOnclick } = this.props;
 
         return (
-            <button onClick={handleOnclick}>react stateful button</button>
+            <button onClick={handleOnclick}>react statefull button</button>
         );
     }
 }
