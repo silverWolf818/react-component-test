@@ -16,8 +16,7 @@ const tasks = outputTypes.map(output => ({
         resolve(),
         filesize(),
         babel({
-            exclude: 'node_modules/**',
-            plugins: ['external-helpers'],
+            exclude: 'node_modules/**'
         })
     ],
 }));
