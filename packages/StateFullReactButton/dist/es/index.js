@@ -65,7 +65,7 @@ var StateFullReactButton = function (_Component) {
             return React.createElement(
                 'button',
                 { onClick: handleOnclick },
-                'statefull button'
+                'statefull1111111 button'
             );
         }
     }]);
