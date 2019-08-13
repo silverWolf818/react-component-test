@@ -1,6 +1,6 @@
 {
   "name": "statefulreactbutton",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "button",
   "main": "dist/es/index.js",
   "scripts": {
